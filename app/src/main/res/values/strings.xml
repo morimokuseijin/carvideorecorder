@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarVideoRecorder</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="recording">Recording</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
